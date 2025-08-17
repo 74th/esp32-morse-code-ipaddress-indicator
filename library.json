@@ -1,5 +1,5 @@
 {
-  "name": "ESP",
+  "name": "ESP32MorseCodeIPAddressIndicator",
   "version": "1.0.0",
   "description": "TODO",
   "keywords": ["esp32", "arduino", "wifi"],
