@@ -1,0 +1,22 @@
+{
+  "name": "ESP",
+  "version": "1.0.0",
+  "description": "TODO",
+  "keywords": ["esp32", "arduino", "wifi"],
+  "license": "MIT",
+  "homepage": "https://github.com/74th/esp32-morse-code-ipaddress-indicator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/74th/esp32-morse-code-ipaddress-indicator.git"
+  },
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "authors": [
+    {
+      "name": "Atsushi Morimoto",
+      "email": "74th.tech@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "dependencies": []
+}

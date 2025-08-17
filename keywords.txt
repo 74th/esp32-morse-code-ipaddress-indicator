@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For ESP32 Morse Code IP Address Indicator
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MorseCodeIPAddressIndicator	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+loop	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
